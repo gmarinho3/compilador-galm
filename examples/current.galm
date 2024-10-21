@@ -1,0 +1,5 @@
+fn soma(a: array<str>) {
+    return ["asdasdok"];
+}
+
+soma(["asdoaksd"]);
